@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkukreti07&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkukreti07" /> </p>
 
 - 🌱 I’m currently pursuing **B.Tech CSE from Galgotias University**
+  
+- 📝 I am an aspiring and dedicated B.Tech student specialising in Computer Science and Engineering, with a solid foundation in software development, artificial intelligence and machine learning
 
 - 📫 How to reach me **shubhamkukreti713@gmail.com**
 
